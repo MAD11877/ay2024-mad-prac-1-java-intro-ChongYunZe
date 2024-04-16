@@ -6,7 +6,7 @@ public class Question1
     /**
      * Print "Hello World!"
      * 
-     * Hint: System.out.println(...)
+     * Hint: System.out.println(...).
      */
   }
 }
