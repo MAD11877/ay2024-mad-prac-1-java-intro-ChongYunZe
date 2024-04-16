@@ -52,6 +52,7 @@ public class Question5
                 mode = data.get(i);
             }
         }
+        System.out.println(mode);
 
   }
 }
